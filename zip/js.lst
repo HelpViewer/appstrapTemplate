@@ -1,0 +1,10 @@
+base/appEventBus.js
+base/appPlugins.js
+appmainBaseLogic.js
+base/appLocalizationSwitcher.js
+base/appmainHelpFileConfigFile.js
+appGHIntegration.js
+base/appFTree.js
+base/appLayoutHandlers.js
+appmainFileParsingTocTree.js
+base/appIndexedDBOperator.js
